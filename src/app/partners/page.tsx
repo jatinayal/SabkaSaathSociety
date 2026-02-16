@@ -17,7 +17,7 @@ export default function PartnersPage() {
                 {/* Intro */}
                 <section className="mb-16 max-w-4xl mx-auto text-center">
                     <p className="text-xl text-gray-600 leading-relaxed">
-                        Sabka Sath Society works in collaboration with government departments, corporate entities,
+                        Sabka Saath Society works in collaboration with government departments, corporate entities,
                         academic institutions, and other civil society organizations to maximize the impact of
                         our development interventions.
                     </p>
@@ -115,7 +115,7 @@ export default function PartnersPage() {
                 <div className="bg-[#F0FFF4] border border-[#C6F6D5] p-8 rounded-sm text-center max-w-2xl mx-auto">
                     <h3 className="text-lg font-bold text-[#276749] mb-2">Partnership Inquiries</h3>
                     <p className="text-gray-700">
-                        Organizations interested in partnering with us may contact us at <a href="mailto:partnerships@sabkasath.org" className="text-[#2B6CB0] hover:underline font-medium">partnerships@sabkasath.org</a> or through the <Link href="/contact" className="text-[#2B6CB0] hover:underline font-medium">contact form</Link>.
+                        Organizations interested in partnering with us may contact us at <a href="mailto:sabkasaathngo@gmail.com" className="text-[#2B6CB0] hover:underline font-medium">sabkasaathngo@gmail.com</a> or through the <Link href="/contact" className="text-[#2B6CB0] hover:underline font-medium">contact form</Link>.
                     </p>
                 </div>
             </div>

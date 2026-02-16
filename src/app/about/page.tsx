@@ -4,7 +4,7 @@ export default function AboutPage() {
     return (
         <div className="min-h-screen bg-white font-sans text-gray-800">
             <PageHeader
-                title="About Sabka Sath Society"
+                title="About Sabka Saath Society"
                 breadcrumb={[
                     { label: "About Us", href: "/about" }
                 ]}
@@ -16,7 +16,7 @@ export default function AboutPage() {
                 <section className="mb-16 max-w-4xl mx-auto">
                     <h2 className="text-2xl font-bold text-[#1A365D] mb-6 border-b-2 border-[#E2E8F0] pb-2 inline-block">Organization Background</h2>
                     <p className="text-lg text-gray-600 leading-relaxed mb-6">
-                        Sabka Sath Society is a registered non-governmental organization established in 2010 with the
+                        Sabka Saath Society is a registered non-governmental organization established in 2010 with the
                         core objective of promoting sustainable development and social welfare. We work at the intersection of
                         community needs and government policy, ensuring effective implementation of developmental schemes.
                     </p>

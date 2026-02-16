@@ -17,7 +17,7 @@ export default function CSRPage() {
                 {/* Intro */}
                 <section className="mb-16 max-w-4xl mx-auto text-center">
                     <p className="text-xl text-gray-600 leading-relaxed">
-                        Sabka Sath Society partners with corporate entities and government departments to implement
+                        Sabka Saath Society partners with corporate entities and government departments to implement
                         development programs under Corporate Social Responsibility (CSR) mandates and various
                         government schemes.
                     </p>
@@ -102,7 +102,7 @@ export default function CSRPage() {
                                     Contact CSR Cell
                                 </Link>
                                 <p className="text-xs text-blue-300 text-center mt-3">
-                                    or email csr@sabkasath.org
+                                    or email sabkasaathngo@gmail.com
                                 </p>
                             </div>
                         </div>

@@ -67,7 +67,7 @@ export default function ContactPage() {
                                 <div>
                                     <h3 className="font-bold text-gray-800 mb-1">Office Address</h3>
                                     <p className="text-gray-600 leading-relaxed">
-                                        Sabka Sath Society<br />
+                                        Sabka Saath Society<br />
                                         C-93,1stFloor Nehru Vihar Near <br />
                                         TimarPur, 110054-New Delhi,India
                                     </p>

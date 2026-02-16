@@ -17,7 +17,7 @@ export default function WhatWeDoPage() {
                 {/* Intro */}
                 <section className="mb-16 max-w-4xl mx-auto text-center">
                     <p className="text-xl text-gray-600 leading-relaxed">
-                        Sabka Sath Society works across multiple thematic areas to address developmental challenges
+                        Sabka Saath Society works across multiple thematic areas to address developmental challenges
                         at the grassroots level. Our approach combines direct implementation, capacity building,
                         and policy advocacy to create sustainable impact.
                     </p>

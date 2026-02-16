@@ -18,7 +18,7 @@ export default function ResourcesPage() {
                 <section className="mb-16 max-w-4xl mx-auto text-center">
                     <p className="text-xl text-gray-600 leading-relaxed">
                         This section contains reports, publications, and other resources related to the work of
-                        Sabka Sath Society. Documents are available for download in PDF format.
+                        Sabka Saath Society. Documents are available for download in PDF format.
                     </p>
                 </section>
 

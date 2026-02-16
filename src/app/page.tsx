@@ -14,7 +14,7 @@ export default function Home() {
                         Official NGO Portal
                     </div>
                     <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#1A365D] mb-6 tracking-tight leading-tight">
-                        Sabka Sath Society
+                        Sabka Saath Society
                     </h1>
                     <p className="text-2xl md:text-3xl text-gray-600 max-w-3xl mx-auto font-normal leading-relaxed mb-10">
                         Empowering Communities. Supporting Innovation.
@@ -41,7 +41,7 @@ export default function Home() {
                 <div className="max-w-4xl mx-auto px-6 text-center">
                     <h2 className="text-2xl font-bold text-[#2D3748] mb-6">Bridging Gap & Governance</h2>
                     <p className="text-lg text-gray-600 leading-8 mb-10">
-                        Sabka Sath Society is a non-profit organization working to promote entrepreneurship,
+                        Sabka Saath Society is a non-profit organization working to promote entrepreneurship,
                         social innovation, skill development, and inclusive community growth through structured
                         programs and ecosystem collaboration
                     </p>

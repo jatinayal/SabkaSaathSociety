@@ -16,7 +16,7 @@ export default function Header() {
                         <div className="relative w-16 h-16 shrink-0">
                             <Image
                                 src="/image.png"
-                                alt="Sabka Sath Society Logo"
+                                alt="Sabka Saath Society Logo"
                                 fill
                                 className="object-contain"
                                 priority
@@ -26,7 +26,7 @@ export default function Header() {
                         {/* Organization Name */}
                         <div className="flex flex-col">
                             <h1 className="text-2xl font-bold text-[#2C5282] tracking-tight leading-none">
-                                SABKA SATH SOCIETY
+                                SABKA SAATH SOCIETY
                             </h1>
                             <span className="text-xs font-medium text-gray-600 tracking-wider mt-1 uppercase">
                                 Government Registered NGO | Est. 2010

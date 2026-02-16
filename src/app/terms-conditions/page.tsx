@@ -34,7 +34,7 @@ export default function TermsConditionsPage() {
                     <h3 className="text-[#1A365D] text-xl font-bold mb-4">3. Intellectual Property</h3>
                     <p className="mb-6 leading-relaxed">
                         All content on this website, including text, graphics, logos, and images, is the property
-                        of Sabka Sath Society and is protected by applicable copyright and trademark laws. You
+                        of Sabka Saath Society and is protected by applicable copyright and trademark laws. You
                         may not reproduce, distribute, or use any content without our prior written permission.
                     </p>
 
@@ -67,8 +67,8 @@ export default function TermsConditionsPage() {
                     <h3 className="text-[#1A365D] text-xl font-bold mb-4">8. Contact</h3>
                     <p className="mb-6 leading-relaxed bg-blue-50 p-6 rounded-sm border border-blue-100">
                         For questions about these Terms and Conditions, please contact:<br />
-                        <strong>Email:</strong> legal@sabkasath.org<br />
-                        <strong>Address:</strong> 123 NGO Street, Sector 4, New Delhi - 110001
+                        <strong>Email:</strong> sabkasaathngo@gmail.com<br />
+                        <strong>Address:</strong> C-93, 1st Floor Nehru Vihar, 110054-New Delhi
                     </p>
                 </div>
             </div>

@@ -17,7 +17,7 @@ export default function SupportPage() {
                 {/* Intro */}
                 <section className="mb-16 max-w-4xl mx-auto text-center">
                     <p className="text-xl text-gray-600 leading-relaxed">
-                        Sabka Sath Society runs an incubation program to support social enterprises and startups
+                        Sabka Saath Society runs an incubation program to support social enterprises and startups
                         working on solutions to address social and environmental challenges.
                     </p>
                 </section>
@@ -91,7 +91,7 @@ export default function SupportPage() {
                                 Interested candidates may submit their application along with a concept note (maximum 5 pages) to:
                             </p>
 
-                            <a href="mailto:incubation@sabkasath.org" className="block w-full text-center bg-[#2C5282] text-white font-semibold py-3 rounded-sm hover:bg-[#1A365D] transition-colors mb-3">
+                            <a href="mailto:sabkasaathngo@gmail.com" className="block w-full text-center bg-[#2C5282] text-white font-semibold py-3 rounded-sm hover:bg-[#1A365D] transition-colors mb-3">
                                 Email Concept Note
                             </a>
                             <p className="text-center text-sm text-gray-500">

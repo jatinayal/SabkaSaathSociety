@@ -17,7 +17,7 @@ export default function ImpactPage() {
                 {/* Intro */}
                 <section className="mb-16 max-w-4xl mx-auto text-center">
                     <p className="text-xl text-gray-600 leading-relaxed">
-                        Since its inception in 2010, Sabka Sath Society has been working to create measurable
+                        Since its inception in 2010, Sabka Saath Society has been working to create measurable
                         and sustainable impact across communities. Our programs have benefited thousands of
                         individuals across multiple states.
                     </p>

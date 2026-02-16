@@ -18,7 +18,7 @@ export default function PrivacyPolicyPage() {
                 <div className="prose prose-blue max-w-none text-gray-700">
                     <h3 className="text-[#1A365D] text-xl font-bold mb-4">1. Introduction</h3>
                     <p className="mb-6 leading-relaxed">
-                        Sabka Sath Society ("we", "us", or "our") is committed to protecting the privacy of
+                        Sabka Saath Society ("we", "us", or "our") is committed to protecting the privacy of
                         visitors to our website. This Privacy Policy explains how we collect, use, and safeguard
                         your personal information when you visit our website.
                     </p>
@@ -54,13 +54,13 @@ export default function PrivacyPolicyPage() {
                     <h3 className="text-[#1A365D] text-xl font-bold mb-4">6. Your Rights</h3>
                     <p className="mb-6 leading-relaxed">
                         You have the right to access, correct, or delete your personal information. To exercise
-                        these rights, please contact us at <a href="mailto:privacy@sabkasath.org" className="text-blue-600 hover:underline">privacy@sabkasath.org</a>.
+                        these rights, please contact us at <a href="mailto:sabkasaathngo@gmail.com" className="text-blue-600 hover:underline">sabkasaathngo@gmail.com</a>.
                     </p>
 
                     <h3 className="text-[#1A365D] text-xl font-bold mb-4">7. Contact Us</h3>
                     <p className="mb-6 leading-relaxed bg-blue-50 p-6 rounded-sm border border-blue-100">
                         For questions about this Privacy Policy, please contact:<br />
-                        <strong>Email:</strong> privacy@sabkasath.org<br />
+                        <strong>Email:</strong> sabkasaathngo@gmail.com<br />
                         <strong>Address:</strong> 123 NGO Street, Sector 4, New Delhi - 110001
                     </p>
                 </div>

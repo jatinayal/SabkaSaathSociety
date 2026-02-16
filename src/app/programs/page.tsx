@@ -16,7 +16,7 @@ export default function ProgramsPage() {
                 {/* Intro */}
                 <section className="mb-12 max-w-4xl">
                     <p className="text-xl text-gray-600 leading-relaxed">
-                        Sabka Sath Society implements various programs and initiatives aimed at sustainable development
+                        Sabka Saath Society implements various programs and initiatives aimed at sustainable development
                         and community empowerment. Our programs are designed in alignment with national development
                         priorities and the UN Sustainable Development Goals (SDGs).
                     </p>
